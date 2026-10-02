@@ -80,7 +80,7 @@ Currently pursuing an **MSc in Cybersecurity Engineering at Óbuda University, B
 
 </div>
 
-> 🔄 Detailed labs, rooms, projects, screenshots, write-ups and progress are maintained in my portfolio.
+> 🔄 Detailed labs, rooms, projects, screenshots, write-ups, and progress are maintained in my portfolio.
 
 ---
 
@@ -102,7 +102,7 @@ Academic projects and research developed throughout my master's programme.
 
 ## 🌐 Portfolio
 
-### 🔗 [Cybersecurity Portfolio](https://github.com/bensonsanga)
+### 🔗 [Cybersecurity Portfolio]([https://github.com/bensonsanga](https://github.com/sangaITSec/sangaITSec/blob/main/index.html))
 
 Detailed portfolio covering:
 
