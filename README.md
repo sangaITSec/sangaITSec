@@ -1,4 +1,5 @@
 <div align="center">
+<b><img align ="right" src="https://komarev.com/ghpvc/?username=bensonsanga&label=Profile%20Views👁️&color=00B8D9&style=flat" alt="Profile Viewss" </</b>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,35:0B3D5C,65:00B8D9,100:07111F&height=190&section=header&text=Benson%20Sanga&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Cybersecurity%20Engineer%20%7C%20ICT%20Audit%20%7C%20Information%20Security&descAlignY=62&descSize=18&descColor=7FDBFF&animation=fadeIn" width="100%"/>
 <br>
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Cybersecurity+Engineering;Information+Security+%7C+ICT+Audit;Network+Security+%7C+Security+Operations;Penetration+Testing+%7C+Digital+Forensics;MSc+Cybersecurity+Engineering+%40+%C3%93buda+University" />
