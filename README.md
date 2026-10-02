@@ -102,7 +102,7 @@ Academic projects and research developed throughout my master's programme.
 
 ## 🌐 Portfolio
 
-### 🔗 [Cybersecurity Portfolio](https://github.com/sangaITSec/sangaITSec/blob/main/index.html)
+### 🔗 [Cybersecurity Portfolio](https://sangaitsec.github.io/sangaITSec/)
 
 Detailed portfolio covering:
 
